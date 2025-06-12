@@ -3,4 +3,7 @@
 # this is a feature branch
 #The newly added line
 
-Add another line for testing
+I added new some good
+line
+
+I am a good developer who worked correctly
